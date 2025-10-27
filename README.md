@@ -66,5 +66,3 @@ It offers an **efficient, scalable, and lightweight solution** for early-stage s
 Future improvements may include integration with SIEM tools and **machine learning-based anomaly detection** for enhanced threat analysis.
 
 ---
-
-Would you like me to now generate the **updated 2-page PDF report** (without network log references) to match this README?
